@@ -12,10 +12,10 @@ You tired every time paste two commands to copy and chmod system files? This is 
 # To install HYPERcopy:
 
 1. For RU language:
-``bash Ruinstall.sh``
+``bash RUinstall.sh``
 
-2. For ENG language:
-``bash ENGinstall.sh``
+2. For EN language:
+``bash ENinstall.sh``
 
 After installation, open HYPERcopy via ``hcp`` command in your terminal.
 
